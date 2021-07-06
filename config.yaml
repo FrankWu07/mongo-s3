@@ -1,0 +1,8 @@
+mongodb:
+  connect_string: 
+
+
+s3:
+  client: 
+  Bucket: 
+  file_path: 
